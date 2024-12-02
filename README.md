@@ -10,3 +10,9 @@ Vítorias: Quantas vezes o jogador venceu.
 Derrotas: Quantas vezes o jogador perdeu.
 Maior Pontuação: A maior pontuação alcançada pelo jogador.
 Progressão de Fase: O jogador avança para a próxima fase ao alcançar uma quantidade definida de pontos. Cada fase tem um nível de dificuldade de velocidade da bola e maior numero de pontos para subir de nivel
+
+TRABALHO FINAL N2 - ENGENHARIA DE SOFTWARE
+UNIVERSIDADE CATÓLICA DE BRASÍLIA
+
+LUCA DE FARIA 
+Professor: Jefferson
